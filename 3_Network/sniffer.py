@@ -2,7 +2,7 @@ import socket
 import os
 
 # IP address to listen to
-HOST = "localhost"
+HOST = "192.168.2.102"
 
 def main():
     # create raw socket, and bint to public interface
@@ -29,3 +29,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# Why does not it work?
