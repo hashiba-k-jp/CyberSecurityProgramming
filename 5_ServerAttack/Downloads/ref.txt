@@ -1,0 +1,11 @@
+./dvwp (d)
+git clone https://github.com/vavlamil/dvwp.git
+
+./SVNDigger-master (d)
+https://github.com/nathanmyee/SVNDigger
+
+./wordpress (d)
+wget https://wordpress.org/wordpress-5.4.8.zip -P ./
+
+./cain.txt
+wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Software/cain-and-abel.txt -O cain.txt
